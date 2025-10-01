@@ -29,6 +29,6 @@ sleep 10
 # -----------------------------
 uvicorn main:app \
     --host ::      \  # Bind to all IPv6 interfaces
-    --port 8001 \
+    --port 8000 \
     --reload \
     --workers 1
