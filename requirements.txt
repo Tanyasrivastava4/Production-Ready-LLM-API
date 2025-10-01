@@ -2,4 +2,4 @@ fastapi
 uvicorn
 prometheus_client
 requests
-vllm==0.3.2
+vllm
